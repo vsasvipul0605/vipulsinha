@@ -1,5 +1,4 @@
 This project is made for GitHub Actions x DEV Hackathon!
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
 
