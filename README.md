@@ -1,6 +1,6 @@
 This project is made for GitHub Actions x DEV Hackathon!
 
-## Available Scripts
+## Available Scripts    
 
 In the project directory, you can run:
 
